@@ -1,0 +1,16 @@
+{
+  "users " : [
+    { " id " : 1 , "firstname" : "fn1", "lastname" : "ln1"  },
+      { " id " : 2 , "firstname" : "fn2", "lastname" : "ln2"  },
+  ],
+  " product " : [
+    { " id " : 1 , " name " : " product 1" , "categorieId " : 1 },
+    { " id " : 2 , " name " : " product 2" , "categorieId " : 2 }
+   
+  ],
+  "categorie " : [
+    { "id" : 1 ,  " name " : "catg  1" , "productId" : 1 }
+     { "id" : 2 ,  " name " : "catg  2" , "productId" : 2 }
+  ]
+  
+}
